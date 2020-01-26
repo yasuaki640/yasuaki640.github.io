@@ -7,19 +7,37 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>y640</title>
     <script src="dist/main.js"></script>
+
 </head>
 <body>
-<div class="m-2">
-    <img src="src/img/index/icon_me.jpg" class="rounded mx-auto d-block">
-</div>
-<div class="m-2">
-    <div class="row justify-content-center">
-        <a href="https://twitter.com/y640drums" target="_blank" rel="noopener"><img
-                src="src/img/index/logo/logo_twitter.png" class="mx-2"></a>
-        <a href="https://github.com/yasuaki640" target="_blank" rel="noopener"><img
-                src="src/img/index/logo/logo_github.png" class="mx-2"></a>
-        <a href="https://www.youtube.com/channel/UC91Qyr8LcsyRx-7SyNiaGZw" target="_blank" rel="noopener"><img
-                src="src/img/index/logo/logo_youtube.png" class="mx-2"></a>
+<SCRIPT type="text/javascript"><!--
+myColTbl = new Array("#FF0000", "#0000FF", "#00FF00", "#FF00FF", "#00FFFF", "#FFFF00", "#000000", "#FFFFFF");
+myColCnt = 0;
+
+function myFunc() {
+    document.getElementById("osusume").style.color = myColTbl[myColCnt];
+    myColCnt = (myColCnt < myColTbl.length - 1) ? myColCnt + 1 : 0;
+}
+
+// --></SCRIPT>
+<DIV ID="osusume" style="color:#000000">今週のおすすめ！</DIV>
+<SCRIPT type="text/javascript"><!--
+setInterval("myFunc()", 300);
+// --></SCRIPT>
+<div class="container">
+    <h1 class="text-center m-5">y640</h1>
+    <div class="m-2">
+        <img src="src/img/index/icon_me.jpg" class="rounded mx-auto d-block">
+    </div>
+    <div class="m-2">
+        <div class="row justify-content-center">
+            <a href="https://twitter.com/y640drums" target="_blank" rel="noopener"><img
+                    src="src/img/index/logo/logo_twitter.png" class="mx-2"></a>
+            <a href="https://github.com/yasuaki640" target="_blank" rel="noopener"><img
+                    src="src/img/index/logo/logo_github.png" class="mx-2"></a>
+            <a href="https://www.youtube.com/channel/UC91Qyr8LcsyRx-7SyNiaGZw" target="_blank" rel="noopener"><img
+                    src="src/img/index/logo/logo_youtube.png" class="mx-2"></a>
+        </div>
     </div>
 </div>
 </body>
