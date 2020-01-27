@@ -5,6 +5,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap";
 
 //文字の色を変えるjsファイル
-import {changeColor} from "./modules/change-color";
+import {setRandomColor} from "./modules/set-random-color";
 
-changeColor();
+setRandomColor();
