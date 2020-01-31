@@ -1,5 +1,5 @@
 .movieWraper {
-    position: relative
+    position: relative;
     width: calc(100% - 10px);
     margin: 0 auto;
 }
