@@ -1,8 +1,11 @@
+//load js files
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap";
-import "glottologist";
-import {changeColor} from "./modules/set-random-color";
+import {changeColor} from "./js/set-random-color";
 
-const glot = new Glottologist();
+//load css files
+import "./css/index.css"
+
 changeColor();
+
 
