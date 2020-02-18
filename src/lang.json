@@ -1,18 +1,20 @@
 {
-  "Profile1": {
-    "ja": "情報系通信大学の4年生。",
-    "en": "I'm a student majoring computer science in distance learning university"
-  },
-  "Profile2": {
-    "ja": "SoftBank運営のサイバー大学に通っている。",
-    "en": "This university I belong to called CYBER UNIVERSITY run by Soft banc Inc."
-  },
-  "Profile3": {
-    "ja": "東海地方に住んでいる。",
-    "en": "I live in Tokai region."
-  },
-  "Profile4": {
-    "ja": "2020年春から都内IT企業にてスパゲッティを製麺する。",
-    "en": "I'm to work an IT company from next spring, and make a lot of spaghetti LOL."
+  "Profile": {
+    "L1": {
+      "ja": "情報系通信大学の4年生。",
+      "en": "I'm a student majoring computer science in distance learning university"
+    },
+    "L2": {
+      "ja": "SoftBank運営のサイバー大学に通っている。",
+      "en": "This university I belong to called CYBER UNIVERSITY run by Soft banc Inc."
+    },
+    "L3": {
+      "ja": "東海地方に住んでいる。",
+      "en": "I live in Tokai region."
+    },
+    "L4": {
+      "ja": "2020年春から都内IT企業にてスパゲッティを製麺する。",
+      "en": "I'm to work an IT company from next spring, and make a lot of spaghetti LOL."
+    }
   }
 }
