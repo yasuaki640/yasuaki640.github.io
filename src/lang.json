@@ -16,5 +16,19 @@
       "ja": "2020年春から都内IT企業にてスパゲッティを製麺する。",
       "en": "I'm to work an IT company from next spring, and make a lot of spaghetti LOL."
     }
+  },
+  "App": {
+    "L1": {
+      "ja": "生JSによるテトリスゲーム(スマホ操作非対応)",
+      "en": "A tetris by pure JavaScript<br>Unsporting mobile phone"
+    },
+    "L2": {
+      "ja": "Node.js、AWS Lambdaによるログイン形式の掲示板",
+      "en": "A BBS has login authentication function integrated by Node.js and AWS Lambda."
+    },
+    "L3": {
+      "ja": "Laravelによる宗教法人向け人数集計アプリ",
+      "en": "An app aggregate number of People created for religious corporation"
+    }
   }
 }
