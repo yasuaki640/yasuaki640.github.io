@@ -30,5 +30,15 @@
       "ja": "Laravelによる宗教法人向け人数集計アプリ",
       "en": "An app aggregate number of People created for religious corporation"
     }
+  },
+  "Qualifications": {
+    "L1": {
+      "ja": "基本情報技術者試験 2019/10",
+      "en": "Fundamental Information Technology Engineer Examination 2019/10"
+    },
+    "L2": {
+      "ja": "Oracle認定試験 Java Silver SE　8 2019/11",
+      "en": "Oracle Java Silver 2019/11"
+    }
   }
 }
