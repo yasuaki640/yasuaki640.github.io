@@ -142,17 +142,6 @@ eval("\n\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n
 
 /***/ }),
 
-/***/ "./node_modules/glottologist/dist/glottologist.min.js":
-/*!************************************************************!*\
-  !*** ./node_modules/glottologist/dist/glottologist.min.js ***!
-  \************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("var __WEBPACK_AMD_DEFINE_RESULT__;class Glottologist{assign(a,b){let c={};c[a]=b,this.data=Object.assign(this.data,c)}async autoGen(a,b){let c={};for(let d of b){const b=await this.t(a,d);c[d]=b}this.assign(a,c)}constructor(a=\"en\"){this.data={},this.lang=\"undefined\"==typeof window?a:navigator.language||navigator.userLanguage}get(name,lang=\"auto\",obj={}){let data={};\"object\"==typeof lang&&(data=lang,lang=\"string\"==typeof obj?obj:\"auto\");let tmp,result;return\"auto\"==lang?(tmp=this.data[name][new String(this.lang).split(\"-\")[0]],result=void 0==tmp?this.data[name][Object.keys(this.data[name])[0]]:tmp):(tmp=this.data[name][lang],result=void 0==tmp?this.data[name][Object.keys(this.data[name])[0]]:tmp),eval(\"`\"+result+\"`\")}import(a){return new Promise((b,c)=>{fetch(a).then((a)=>{a.json().then((a)=>{this.data=Object.assign(this.data,a),b(a)}).catch((a)=>{c(a)})}).catch((a)=>{c(a)})})}render(a=\"auto\"){const b=document.querySelectorAll(\"[glot-model]\");for(let c=0;c<b.length;c++){const d=b[c].getAttribute(\"glot-model\");b[c].innerHTML=this.get(d,a)}}t(a,b=\"en\",c=\"auto\"){return new Promise((d,f)=>{const e=\"https://translate.googleapis.com/translate_a/single?client=gtx&sl=\"+c+\"&tl=\"+b+\"&dt=t&q=\"+encodeURI(a);fetch(e).then((a)=>{a.json().then((a)=>{d(a[0][0][0])}).catch((a)=>{f(a)})}).catch((a)=>{f(a)})})}} true?!(__WEBPACK_AMD_DEFINE_RESULT__ = (()=>new Glottologist).call(exports, __webpack_require__, exports, module),\n\t\t\t\t__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__)):undefined;\n\n//# sourceURL=webpack:///./node_modules/glottologist/dist/glottologist.min.js?");
-
-/***/ }),
-
 /***/ "./node_modules/jquery/dist/jquery.js":
 /*!********************************************!*\
   !*** ./node_modules/jquery/dist/jquery.js ***!
@@ -228,7 +217,7 @@ eval("\nvar content = __webpack_require__(/*! !../../node_modules/css-loader/dis
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.min.css */ \"./node_modules/bootstrap/dist/css/bootstrap.min.css\");\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! bootstrap */ \"./node_modules/bootstrap/dist/js/bootstrap.js\");\n/* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(bootstrap__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _js_change_color__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./js/change-color */ \"./src/js/change-color.js\");\n/* harmony import */ var _js_change_lang__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./js/change-lang */ \"./src/js/change-lang.js\");\n/* harmony import */ var glottologist__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! glottologist */ \"./node_modules/glottologist/dist/glottologist.min.js\");\n/* harmony import */ var glottologist__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(glottologist__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./css/index.css */ \"./src/css/index.css\");\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_css_index_css__WEBPACK_IMPORTED_MODULE_5__);\n//load js files\r\n\r\n\r\n\r\n\r\n\r\n\r\nObject(_js_change_color__WEBPACK_IMPORTED_MODULE_2__[\"changeColor\"])();\r\n\r\n\r\n//load css files\r\n\r\n\r\n\r\n\r\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.min.css */ \"./node_modules/bootstrap/dist/css/bootstrap.min.css\");\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! bootstrap */ \"./node_modules/bootstrap/dist/js/bootstrap.js\");\n/* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(bootstrap__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _js_change_color__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./js/change-color */ \"./src/js/change-color.js\");\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./css/index.css */ \"./src/css/index.css\");\n/* harmony import */ var _css_index_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_css_index_css__WEBPACK_IMPORTED_MODULE_3__);\n//load js files\r\n\r\n\r\n\r\n\r\nObject(_js_change_color__WEBPACK_IMPORTED_MODULE_2__[\"changeColor\"])();\r\n\r\n//load css files\r\n\r\n\r\n\r\n\r\n\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
@@ -241,18 +230,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var boot
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"changeColor\", function() { return changeColor; });\nfunction changeColor() {\r\n    function setRandomColor() {\r\n        let rValue = Math.floor(Math.random() * 255);\r\n        let gValue = Math.floor(Math.random() * 255);\r\n        let bValue = Math.floor(Math.random() * 255);\r\n        document.getElementById(\"changingColor\").style.color = `rgb(${rValue},${gValue},${bValue})`;\r\n    }\r\n\r\n    setInterval(setRandomColor, 100);\r\n}\n\n//# sourceURL=webpack:///./src/js/change-color.js?");
-
-/***/ }),
-
-/***/ "./src/js/change-lang.js":
-/*!*******************************!*\
-  !*** ./src/js/change-lang.js ***!
-  \*******************************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var glottologist__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! glottologist */ \"./node_modules/glottologist/dist/glottologist.min.js\");\n/* harmony import */ var glottologist__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(glottologist__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\nconst glot = new Glottologist();\r\n\r\nglot.import(\"./lang.json\").then(() => {\r\n    glot.render();\r\n});\r\n\r\n//言語切り替え用のイベント処理\r\nconst ja = document.getElementById('ja');\r\nconst en = document.getElementById('en');\r\n\r\nja.addEventListener('click', e => {\r\n    e.preventDefault();\r\n    glot.render('ja');\r\n});\r\n\r\nen.addEventListener('click', e => {\r\n    e.preventDefault()\r\n    glot.render('en');\r\n});\n\n//# sourceURL=webpack:///./src/js/change-lang.js?");
 
 /***/ })
 
