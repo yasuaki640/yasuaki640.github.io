@@ -16,13 +16,6 @@ module.exports = {
                     "css-loader"
                 ]
             },
-            {
-                test: /\.json$/,
-                type: "javascript/auto",
-                use: {
-                    loader: "json-loader",
-                },
-            },
         ]
     }
 };
