@@ -1,7 +1,7 @@
 module.exports = {
     // モード値を production に設定すると最適化された状態で、
     // development に設定するとソースマップ有効でJSファイルが出力される
-    mode: "production",
+    mode: "development",
     entry: "./src/index.js",
     module: {
         rules: [
@@ -15,7 +15,7 @@ module.exports = {
                     // CSSをバンドルするための機能
                     "css-loader"
                 ]
-            }
+            },
         ]
     }
 };
