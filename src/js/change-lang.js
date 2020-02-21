@@ -1,8 +1,8 @@
 import "glottologist";
 
-let glot = new Glottologist();
+const glot = new Glottologist();
 
-glot.import("src/lang.json").then(() => {
+glot.import("./lang.json").then(() => {
     glot.render();
 });
 

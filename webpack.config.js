@@ -15,7 +15,14 @@ module.exports = {
                     // CSSをバンドルするための機能
                     "css-loader"
                 ]
-            }
+            },
+            {
+                test: /\.json$/,
+                type: "javascript/auto",
+                use: {
+                    loader: "json-loader",
+                },
+            },
         ]
     }
 };

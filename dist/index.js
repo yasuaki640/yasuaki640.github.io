@@ -4,10 +4,11 @@ require("bootstrap/dist/css/bootstrap.min.css");
 
 require("bootstrap");
 
-var _setRandomColor = require("./js/set-random-color");
+var _changeColor = require("./js/change-color");
+
+require("./js/change-lang");
 
 require("./css/index.css");
 
 //load js files
-//load css files
-(0, _setRandomColor.changeColor)();
+(0, _changeColor.changeColor)();
