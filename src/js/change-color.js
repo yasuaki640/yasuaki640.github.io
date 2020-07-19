@@ -1,4 +1,4 @@
-export function changeColor() {
+ function changeColor() {
     function setRandomColor() {
         let rValue = Math.floor(Math.random() * 255);
         let gValue = Math.floor(Math.random() * 255);
@@ -8,3 +8,4 @@ export function changeColor() {
 
     setInterval(setRandomColor, 100);
 }
+changeColor();
