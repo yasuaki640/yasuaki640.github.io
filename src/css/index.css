@@ -1,8 +1,7 @@
 body {
-    background-image: url('../img/index/background/background_1.jpg');
+    background: url('../img/index/background/background_1.jpg') no-repeat center center fixed;
     background-size: cover;
-    background-position: center;
-    background-attachment: scroll;
+
 }
 
 p {
