@@ -1,12 +1,14 @@
-body {
-    background-image: url('../img/index/background/background_1.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+body::before {
+    background: url('../img/index/background/background_1.jpg') no-repeat center;/* 画像（ここにfixedは入れない） */
+    background-size: cover;/* cover指定できる */
+    content: "";
+    display: block;
+    position: fixed;/* 擬似要素ごと固定 */
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;/* 横幅いっぱい */
+    height: 100vh;/* 縦幅いっぱい */
 }
 
 p {
