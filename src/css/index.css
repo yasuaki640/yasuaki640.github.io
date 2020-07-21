@@ -20,3 +20,8 @@ body::before {
 p {
     margin: 0.6em;
 }
+
+.hidden {
+    display: none;
+}
+
