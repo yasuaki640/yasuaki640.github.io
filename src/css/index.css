@@ -1,7 +1,12 @@
 body {
-    background: url('../img/index/background/background_1.jpg') no-repeat center center fixed;
+    background-image: url('../img/index/background/background_1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     background-size: cover;
-
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 p {
