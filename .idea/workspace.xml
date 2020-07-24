@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c698ec36-1105-4557-86aa-e277a8d72c7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_en.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publlic/Qualifications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publlic/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/background/background_9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/icon_me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/logo/logo_github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/logo/logo_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/index/logo/logo_youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/change-color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/lang.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/transit-to-pages.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y7VD5r7CIcf7yCQYY00Iz7JCNZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\趣味\yasuaki640.github.io\src\img" />
+      <recent name="C:\趣味\yasuaki640.github.io\src\img\index\background" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\趣味\yasuaki640.github.io\src\js" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c698ec36-1105-4557-86aa-e277a8d72c7c" name="Default Changelist" comment="" />
+      <created>1582293496565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582293496565</updated>
+      <workItem from="1582293498985" duration="814000" />
+      <workItem from="1582543268722" duration="1441000" />
+      <workItem from="1582718772476" duration="27000" />
+      <workItem from="1587984602730" duration="826000" />
+      <workItem from="1595149009718" duration="5406000" />
+      <workItem from="1595154441850" duration="6983000" />
+      <workItem from="1595282190897" duration="10312000" />
+      <workItem from="1595557097207" duration="2215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2570" y="272" key="FileChooserDialogImpl" timestamp="1595153843729">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2570" y="272" key="FileChooserDialogImpl/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595153843729" />
+    <state x="2714" y="457" width="355" height="166" key="Github.CreateGistDialog" timestamp="1595150145000">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2714" y="457" width="355" height="166" key="Github.CreateGistDialog/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595150145000" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1595150354450">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595150354450" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1595150354450">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595150354450" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1595150354450">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595150354450" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1595150354450">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595150354450" />
+    <state x="2299" y="168" key="SettingsEditor" timestamp="1595153849080">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2299" y="168" key="SettingsEditor/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595153849080" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1595326384752">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595326384752" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1595149393014">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/74.0.1462.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595149393014" />
+  </component>
+</project>
