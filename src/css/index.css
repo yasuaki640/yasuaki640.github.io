@@ -24,3 +24,10 @@ p {
 .content {
     margin-top: 9vh;
 }
+
+@media (min-width: 1000px) {
+    .content {
+        margin-top: 9vh;
+        margin-left: 13vw;
+    }
+}
