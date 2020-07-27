@@ -1,5 +1,4 @@
 import React from 'react';
-import Button from "react-bootstrap/Button";
 
 class Profile extends React.Component {
     render() {
@@ -9,7 +8,6 @@ class Profile extends React.Component {
                 <p>都内のIT企業勤務のプログラマー</p>
                 <p>SoftBank運営の<span className="text-danger font-weight-bold">サイバー大学</span>出身</p>
                 <p>睡眠の鬼である。</p>
-                <Button className={'btn-danger'}>test button</Button>
             </div>
         );
     }
