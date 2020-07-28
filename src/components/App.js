@@ -7,12 +7,12 @@ import MyaApp from "./MyApp";
 
 function App() {
     return (
-        <>
+        <div id="main-container">
             <Header/>
             <Profile/>
             <MyaApp/>
             <Footer/>
-        </>
+        </div>
     );
 }
 
