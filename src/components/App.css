@@ -1,7 +1,7 @@
 /*iOSで背景画像が固定されない問題を解決するため
 以下のように疑似要素自体を固定としている*/
 body::before {
-  background: url('/src/old/img/index/background/background_1.jpg') no-repeat center; /* 画像（ここにfixedは入れない） */
+  background: url('images/index/background/background_1.jpg') no-repeat center; /* 画像（ここにfixedは入れない） */
   background-size: cover;
   content: "";
   display: block;
