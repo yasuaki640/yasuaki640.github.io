@@ -24,10 +24,6 @@ class Header extends React.Component {
                         <li className="nav-item">
                             <a className="nav-link" href="#Videos">Videos</a>
                         </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="./index.html" id="ja">日本語</a>
-                        </li>
-
                     </ul>
                 </div>
             </Nav>
