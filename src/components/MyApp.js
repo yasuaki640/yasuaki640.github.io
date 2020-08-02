@@ -1,10 +1,10 @@
 import React from 'react';
 
 class MyaApp extends React.Component {
-    render() {
+
+    sentence() {
         return (
-            <div className="content mb-5">
-                <h3 className="mb-3" id="MyApps">My apps (made as a hobby)</h3>
+            <>
                 <p>
                     <a href="https://tetlis-by-pure-javascript.s3-ap-northeast-1.amazonaws.com/index.html"
                        target="_blank"
@@ -16,9 +16,21 @@ class MyaApp extends React.Component {
                 </p>
                 <p>Laravelによる宗教法人向け人数集計アプリ<br/>
                     (※宗教上の理由で非公開)</p>
+            </>
+        );
+    }
+
+    render() {
+        const contentTitle = 'MyApps';
+        return (
+            <div className="content mb-5">
+                <h3 className="mb-3" id={contentTitle}>{contentTitle}</h3>
+                {this.sentence()}
             </div>
         );
     }
+
+
 }
 
 export default MyaApp;
