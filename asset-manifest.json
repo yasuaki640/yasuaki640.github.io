@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/yasuaki640.github.io/yasuaki640.github.io/static/css/main.6fe5a8fa.chunk.css",
+    "main.js": "/yasuaki640.github.io/yasuaki640.github.io/static/js/main.54633504.chunk.js",
+    "main.js.map": "/yasuaki640.github.io/yasuaki640.github.io/static/js/main.54633504.chunk.js.map",
+    "runtime-main.js": "/yasuaki640.github.io/yasuaki640.github.io/static/js/runtime-main.bc93d1fc.js",
+    "runtime-main.js.map": "/yasuaki640.github.io/yasuaki640.github.io/static/js/runtime-main.bc93d1fc.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/yasuaki640.github.io/yasuaki640.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.64c148b9.chunk.js": "/yasuaki640.github.io/yasuaki640.github.io/static/js/2.64c148b9.chunk.js",
+    "static/js/2.64c148b9.chunk.js.map": "/yasuaki640.github.io/yasuaki640.github.io/static/js/2.64c148b9.chunk.js.map",
+    "index.html": "/yasuaki640.github.io/yasuaki640.github.io/index.html",
+    "precache-manifest.804ea7e967262876d9b8769ac7ee0366.js": "/yasuaki640.github.io/yasuaki640.github.io/precache-manifest.804ea7e967262876d9b8769ac7ee0366.js",
+    "service-worker.js": "/yasuaki640.github.io/yasuaki640.github.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/yasuaki640.github.io/yasuaki640.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6fe5a8fa.chunk.css.map": "/yasuaki640.github.io/yasuaki640.github.io/static/css/main.6fe5a8fa.chunk.css.map",
+    "static/js/2.64c148b9.chunk.js.LICENSE.txt": "/yasuaki640.github.io/yasuaki640.github.io/static/js/2.64c148b9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/yasuaki640.github.io/yasuaki640.github.io/static/media/background_1.ed058b01.jpg",
+    "static/media/myPortlait.jpg": "/yasuaki640.github.io/yasuaki640.github.io/static/media/myPortlait.8dd7c780.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc93d1fc.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.64c148b9.chunk.js",
+    "static/css/main.6fe5a8fa.chunk.css",
+    "static/js/main.54633504.chunk.js"
+  ]
+}
