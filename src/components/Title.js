@@ -1,8 +1,4 @@
 import React from 'react';
-import MyPortrait from './images/index/logo/myPortlait.jpg'
-import GithubLogo from './images/index/logo/github_logo.png'
-import TwitterLogo from './images/index/logo/twitter_logo.png'
-import YoutubeLogo from './images/index/logo/youtube_logo.png'
 import {Container} from "react-bootstrap";
 
 class Title extends React.Component {
