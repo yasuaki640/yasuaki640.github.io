@@ -16,6 +16,9 @@ class MyaApp extends React.Component {
                 </p>
                 <p>Laravelによる宗教法人向け人数集計アプリ<br/>
                     (※宗教上の理由で非公開)</p>
+                <p><a  href="https://github.com/yasuaki640/yasuaki640.github.io" target="_blank"
+                       rel="noopener noreferrer">Simple Reactによるポートフォリオサイト（this site）</a>
+                    </p>
             </>
         );
     }
