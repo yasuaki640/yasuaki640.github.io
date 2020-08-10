@@ -9,14 +9,14 @@ class Portrait extends React.Component {
     render() {
         return (
             <Container>
-                <img src={MyPortrait} className="rounded mx-auto d-block mb-3"/>
+                <img src={MyPortrait} alt="y640's portrait" className="rounded mx-auto d-block mb-3"/>
                 <div className="row justify-content-center mb-5">
-                    <a href="https://twitter.com/y640drums" target="_blank" rel="noopener"><img
+                    <a href="https://twitter.com/y640drums" target="_blank" rel="noopener noreferrer"><img
                         src={TwitterLogo} className="mx-2" alt="Twitter log"/></a>
-                    <a href="https://github.com/yasuaki640" target="_blank" rel="noopener"><img
+                    <a href="https://github.com/yasuaki640" target="_blank" rel="noopener noreferrer"><img
                         src={GithubLogo} className="mx-2" alt="Github log"/></a>
                     <a href="https://www.youtube.com/channel/UC91Qyr8LcsyRx-7SyNiaGZw" target="_blank"
-                       rel="noopener"><img
+                       rel="noopener noreferrer"><img
                         src={YoutubeLogo} className="mx-2" alt="Youtube log"/></a>
                 </div>
             </Container>
