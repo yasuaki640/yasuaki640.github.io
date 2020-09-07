@@ -5,6 +5,11 @@ class MyaApp extends React.Component {
     sentence() {
         return (
             <>
+                <p><a href="https://github.com/yasuaki640/yasuaki640.github.io" target="_blank"
+                      rel="noopener noreferrer">Simple Reactによるポートフォリオサイト（this site）</a>
+                </p>
+                <p>Laravelによる宗教法人向け人数集計アプリ<br/>
+                    (※宗教上の理由で非公開)</p>
                 <p>
                     <a href="https://tetlis-by-pure-javascript.s3-ap-northeast-1.amazonaws.com/index.html"
                        target="_blank"
@@ -14,11 +19,6 @@ class MyaApp extends React.Component {
                     <a href="https://sns2-2020.s3-ap-northeast-1.amazonaws.com/login.html" target="_blank"
                        rel="noopener noreferrer">Node.js、AWS Lambdaによるログイン形式の掲示板</a>
                 </p>
-                <p>Laravelによる宗教法人向け人数集計アプリ<br/>
-                    (※宗教上の理由で非公開)</p>
-                <p><a  href="https://github.com/yasuaki640/yasuaki640.github.io" target="_blank"
-                       rel="noopener noreferrer">Simple Reactによるポートフォリオサイト（this site）</a>
-                    </p>
             </>
         );
     }
