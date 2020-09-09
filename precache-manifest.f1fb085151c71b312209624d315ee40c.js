@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0de327632ad7629ab04ce13c8f6415eb",
+    "revision": "213829e2a904449d7ee1b63a9600f5fc",
     "url": "/yasuaki640.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yasuaki640.github.io/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fbd53387e244e98046cb",
+    "revision": "0005af290d7e64cec23b",
     "url": "/yasuaki640.github.io/static/css/main.c77defa5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yasuaki640.github.io/static/js/2.12407bcd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbd53387e244e98046cb",
-    "url": "/yasuaki640.github.io/static/js/main.8b77e300.chunk.js"
+    "revision": "0005af290d7e64cec23b",
+    "url": "/yasuaki640.github.io/static/js/main.64d49227.chunk.js"
   },
   {
     "revision": "09ce78891dd62155c3c8",
