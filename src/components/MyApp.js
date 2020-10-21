@@ -8,6 +8,9 @@ class MyaApp extends React.Component {
                 <p><a href="https://github.com/yasuaki640/yasuaki640.github.io" target="_blank"
                       rel="noopener noreferrer">Simple Reactによるポートフォリオサイト（this site）</a>
                 </p>
+                <p><a href="https://github.com/yasuaki640/scraping_images" target="_blank"
+                      rel="noopener noreferrer">某写真系SNSの画像自動保存ツール<br/>（規約違反のため利用は自己責任でお願いいたします。）</a>
+                </p>
                 <p>Laravelによる宗教法人向け人数集計アプリ<br/>
                     (※宗教上の理由で非公開)</p>
                 <p>
