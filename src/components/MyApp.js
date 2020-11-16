@@ -14,7 +14,7 @@ class MyaApp extends React.Component {
                 <p>Laravelによる宗教法人向け人数集計アプリ<br/>
                     (※宗教上の理由で非公開)</p>
                 <p>
-                    <a href="https://tetlis-by-pure-javascript.s3-ap-northeast-1.amazonaws.com/index.html"
+                    <a href="https://yasuaki640.github.io/Terlis-by-pureJS/"
                        target="_blank"
                        rel="noopener noreferrer">生JavaScriptによるテトリスゲーム<br/>(スマホ操作非対応)</a>
                 </p>
