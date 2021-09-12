@@ -15,10 +15,10 @@ class Qualifications extends React.Component {
     sentence() {
         return (
             <>
-                <p>基本情報技術者試験 2019/10</p>
                 <p>Oracle Java Silver 2019/11</p>
-                <p>TOEIC 815 2017/10</p>
+                <p>基本情報技術者試験 2019/10</p>
                 <p>英検準一級 2018/10</p>
+                <p>TOEIC 815 2017/10</p>
             </>
         );
     }
