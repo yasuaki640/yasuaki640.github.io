@@ -10,8 +10,10 @@ class Header extends React.Component {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
                         <Nav.Link href="#Profle">Profile</Nav.Link>
+                        <Nav.Link href="#Skills">Skills</Nav.Link>
                         <Nav.Link href="#MyApps">MyApps</Nav.Link>
                         <Nav.Link href="#Qualifications">Qualifications</Nav.Link>
+                        <Nav.Link href="#Links">Links</Nav.Link>
                         <Nav.Link href="#Videos">Videos</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
