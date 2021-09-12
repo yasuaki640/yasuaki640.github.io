@@ -9,6 +9,8 @@ import Portrait from "./Portrait";
 import Videos from "./Videos";
 import Qualifications from "./Qualifications";
 import Title from "./Title";
+import Skills from "./Skills";
+import Links from "./Links";
 
 function App() {
     return (
@@ -17,8 +19,10 @@ function App() {
             <Title/>
             <Portrait/>
             <Profile/>
+            <Skills/>
             <MyaApp/>
             <Qualifications/>
+            <Links/>
             <Videos/>
         </Container>
     );
