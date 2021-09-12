@@ -15,9 +15,10 @@ class Profile extends React.Component {
     sentence() {
         return (
             <>
-                <p>都内のIT企業勤務のプログラマー</p>
-                <p>SoftBank運営の<span className="text-danger font-weight-bold">サイバー大学</span>出身</p>
-                <p>睡眠の鬼である。</p>
+                <p>I'm web developer writing PHP, Laravel, JS, Vue and more.</p>
+                <p>I like to write programs and study information engineering as a hobby in my private life, and often upload my codes to Github and blogs.</p>
+                <p>I also recently started OSS contributions little by little.</p>
+                <p>Other than programming, my hobby is playing drums, and I go to sessions regardless of genre, such as jazz and rock.</p>
             </>
         );
 
