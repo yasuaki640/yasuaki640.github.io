@@ -20,7 +20,7 @@ class MyaApp extends React.Component {
                        target="_blank"
                        rel="noopener noreferrer"
                     >
-                        A portfolio site integrated by simple React (this site)
+                        A portfolio site integrated by simple React. (this site)
                     </a>
                 </p>
                 <p>
@@ -28,7 +28,7 @@ class MyaApp extends React.Component {
                        target="_blank"
                        rel="noopener noreferrer"
                     >
-                        A minimal news search app integrated by React and Node.js
+                        A minimal news search app integrated by React and Node.js.
                     </a>
                 </p>
                 <p>
@@ -41,7 +41,7 @@ class MyaApp extends React.Component {
                     </a>
                 </p>
                 <p>
-                    An number of people who attend events counting app for religious corporations<br/>
+                    An number of people who attend events counting app for religious corporations.<br/>
                     (Private for religious reasons.)
                 </p>
                 <p>
@@ -49,7 +49,7 @@ class MyaApp extends React.Component {
                        target="_blank"
                        rel="noopener noreferrer"
                     >
-                        An tetris game integrated by vanilla JavaScript
+                        An tetris game integrated by vanilla JavaScript.
                         <br/>(Not compatible with smartphones)
                     </a>
                 </p>
@@ -60,6 +60,22 @@ class MyaApp extends React.Component {
                     >
                         Bulletin board with login function integrated by Vue.js, Node.js, and
                         AWS Lambda.
+                    </a>
+                </p>
+                <p>
+                    <a href="https://github.com/yasuaki640/post-app"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                    >
+                        A sample post app integrated by Laravel and Vue.js.
+                    </a>
+                </p>
+                <p>
+                    <a href="https://github.com/yasuaki640/jwt-login-example"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                    >
+                        A very simple login API with JWT integrated by Java and Spring boot.
                     </a>
                 </p>
             </>
