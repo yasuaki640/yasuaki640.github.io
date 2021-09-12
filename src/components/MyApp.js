@@ -2,6 +2,16 @@ import React from 'react';
 
 class MyaApp extends React.Component {
 
+    render() {
+        const contentTitle = 'MyApps';
+        return (
+            <div className="content mb-5">
+                <h3 className="mb-3" id={contentTitle}>{contentTitle}</h3>
+                {this.sentence()}
+            </div>
+        );
+    }
+
     sentence() {
         return (
             <>
@@ -55,18 +65,6 @@ class MyaApp extends React.Component {
             </>
         );
     }
-
-    render() {
-        const contentTitle = 'MyApps';
-        return (
-            <div className="content mb-5">
-                <h3 className="mb-3" id={contentTitle}>{contentTitle}</h3>
-                {this.sentence()}
-            </div>
-        );
-    }
-
-
 }
 
 export default MyaApp;
