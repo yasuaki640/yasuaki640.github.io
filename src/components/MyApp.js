@@ -6,24 +6,26 @@ class MyaApp extends React.Component {
         return (
             <>
                 <p><a href="https://github.com/yasuaki640/yasuaki640.github.io" target="_blank"
-                      rel="noopener noreferrer">Simple Reactによるポートフォリオサイト（this site）</a>
+                      rel="noopener noreferrer">A portfolio site integrated by simple raact（this site）</a>
                 </p>
                 <p><a href="https://github.com/yasuaki640/news-api-app" target="_blank"
-                      rel="noopener noreferrer">React + Nodeによるクライアント、サーバ構成のミニマムなニュース検索アプリ</a>
+                      rel="noopener noreferrer">A minimal news search app integrated by React and Node.js</a>
                 </p>
                 <p><a href="https://github.com/yasuaki640/scraping_images" target="_blank"
-                      rel="noopener noreferrer">某写真系SNSの画像自動保存ツール<br/>（規約違反のため利用は自己責任でお願いいたします。）</a>
+                      rel="noopener noreferrer">A tool for saving images automatically from Instagram.<br/>
+                    (Please use at your own risk because it violates the rules.)</a>
                 </p>
-                <p>Laravelによる宗教法人向け人数集計アプリ<br/>
-                    (※宗教上の理由で非公開)</p>
+                <p>An number of people who attend events counting app for religious corporations<br/>
+                    (Private for religious reasons.)</p>
                 <p>
                     <a href="https://yasuaki640.github.io/Terlis-by-pureJS/"
                        target="_blank"
-                       rel="noopener noreferrer">生JavaScriptによるテトリスゲーム<br/>(スマホ操作非対応)</a>
+                       rel="noopener noreferrer">An tetris game integrated by vanilla JavaScript
+                        <br/>(Not compatible with smartphones)</a>
                 </p>
                 <p>
                     <a href="https://sns2-2020.s3-ap-northeast-1.amazonaws.com/login.html" target="_blank"
-                       rel="noopener noreferrer">Node.js、AWS Lambdaによるログイン形式の掲示板</a>
+                       rel="noopener noreferrer">Bulletin board with login function integrated by Vue.js, Node.js, and AWS Lambda.</a>
                 </p>
             </>
         );
