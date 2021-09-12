@@ -16,14 +16,17 @@ class Videos extends React.Component {
     }
 
     sentence() {
+        const youtubeVideo1 = 'https://www.youtube.com/embed/IvJm2414GjY';
+        const youtubeVideo2 = 'https://www.youtube.com/embed/CMc1b4Ss2Fs';
+
         return (
             <>
                 <Row>
                     <Col md={6}>
-                        <IframeVideo src="https://www.youtube.com/embed/IvJm2414GjY"/>
+                        <IframeVideo key={youtubeVideo1} src={youtubeVideo1}/>
                     </Col>
                     <Col md={6}>
-                        <IframeVideo src="https://www.youtube.com/embed/CMc1b4Ss2Fs"/>
+                        <IframeVideo key={youtubeVideo2} src={youtubeVideo2}/>
                     </Col>
                 </Row>
             </>
