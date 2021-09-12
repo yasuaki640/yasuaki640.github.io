@@ -6,7 +6,7 @@ import IframeVideo from "./IframeVideo";
 class Videos extends React.Component {
 
     render() {
-        const contentTitle = 'Videos (Playing drums)';
+        const contentTitle = 'Videos';
         return (
             <div className="content mb-5">
                 <h3 className="mb-3" id={contentTitle}>{contentTitle}</h3>
