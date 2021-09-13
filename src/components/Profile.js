@@ -24,7 +24,7 @@ class Profile extends React.Component {
                     jazz and rock.</p>
                 <p>
                     For more detailed information on my work history,&nbsp;
-                    <a target="_blank" rel="noopener noreferrer" href={"mailto:" + mailAddress}>Please email to me</a>
+                    <a target="_blank" rel="noopener noreferrer" href={"mailto:" + mailAddress}>Please email to me.</a>
                 </p>
             </>
         );
