@@ -11,8 +11,30 @@ main {
   text-align: center;
 }
 
+.centered-img {
+  display: block;
+  margin: auto;
+}
+
+
+h1 {
+  word-break: keep-all;
+  font-size: 1.8em;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+p {
+  line-height: 2em;
+}
+
+section {
+  margin-bottom: 25px;
+}
 footer {
   text-align: center;
   color: gray;
 }
-
