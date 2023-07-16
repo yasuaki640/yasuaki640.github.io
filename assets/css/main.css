@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap");
+
+html[lang="ja"] {
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
 .no-bulls {
   list-style-type: none;
 }
@@ -11,12 +17,6 @@ main {
   text-align: center;
 }
 
-.centered-img {
-  display: block;
-  margin: auto;
-}
-
-
 h1 {
   word-break: keep-all;
   font-size: 1.8em;
@@ -28,12 +28,13 @@ h2 {
 }
 
 p {
-  line-height: 2em;
+  line-height: 1em;
 }
 
 section {
   margin-bottom: 25px;
 }
+
 footer {
   text-align: center;
   color: gray;
