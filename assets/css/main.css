@@ -1,19 +1,20 @@
 /* noto-sans-jp-regular - japanese_latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Noto Sans JP';
+  font-family: "Noto Sans JP";
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/noto-sans-jp-v52-japanese_latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("../fonts/noto-sans-jp-v52-japanese_latin-regular.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* noto-sans-jp-700 - japanese_latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Noto Sans JP';
+  font-family: "Noto Sans JP";
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/noto-sans-jp-v52-japanese_latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("../fonts/noto-sans-jp-v52-japanese_latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 html[lang="ja"] {
@@ -33,13 +34,19 @@ h2 {
   list-style-type: none;
 }
 
+#portrait {
+  text-align: center;
+}
+
+body {
+  background-image: url("../images/background.webp");
+  background-color: rgba(255, 255, 255, 0.85);
+  background-blend-mode: overlay;
+}
+
 main {
   max-width: 800px;
   margin: 0 auto;
-}
-
-#portrait {
-  text-align: center;
 }
 
 h1 {
