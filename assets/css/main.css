@@ -2,6 +2,15 @@ html[lang="ja"] {
   font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 }
 
+* {
+  font-weight: 400;
+}
+
+h1,
+h2 {
+  font-weight: 700;
+}
+
 .no-bulls {
   list-style-type: none;
 }
