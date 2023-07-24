@@ -4,10 +4,9 @@
   font-style: normal;
   font-weight: 400;
   src: url("../fonts/noto-sans-jp-v52-japanese_latin-regular.woff2")
-    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    format("woff2");
 }
 
-/* noto-sans-jp-700 - japanese_latin */
 @font-face {
   font-display: swap;
   font-family: "Noto Sans JP";
