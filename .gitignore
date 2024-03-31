@@ -24,3 +24,7 @@ yarn-error.log*
 
 # IntelliJ
 .idea
+
+# vitepress
+.vitepress/dist
+.vitepress/cache
