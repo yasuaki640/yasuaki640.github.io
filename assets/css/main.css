@@ -1,0 +1,75 @@
+@font-face {
+  font-display: swap;
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/noto-sans-jp-v52-japanese_latin-regular.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/noto-sans-jp-v52-japanese_latin-700.woff2") format("woff2");
+}
+
+* {
+  font-weight: 400;
+}
+
+html[lang="ja"] {
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+h1,
+h2 {
+  font-weight: 700;
+}
+
+body {
+  background-image: url("../images/background.webp");
+  background-color: rgba(255, 255, 255, 0.85);
+  background-blend-mode: overlay;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  word-break: keep-all;
+  font-size: 1.8em;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+p {
+  line-height: 2em;
+}
+
+img {
+  display: initial;
+}
+
+section {
+  margin-bottom: 25px;
+}
+
+footer {
+  text-align: center;
+  color: gray;
+}
+
+.no-bulls {
+  list-style-type: none;
+}
+
+#portrait {
+  text-align: center;
+}

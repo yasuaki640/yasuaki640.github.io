@@ -1,10 +1,14 @@
 {
+  "name": "yasuaki640.github.io",
+  "version": "1.0.0",
+  "description": "The fastest portfolio page of yasuaki640",
+  "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "yasuaki640",
+  "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.0.1"
+    "prettier": "^3.0.0"
   }
 }
