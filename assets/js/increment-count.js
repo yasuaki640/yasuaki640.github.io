@@ -26,7 +26,7 @@ const retrieveVisitorId = () => {
   const url = new URL(
     "https://page-view-counter-api.yasuaki640.workers.dev/increment-count",
   );
-  url.searchParams.append(STORAGE_KEY, visitorId);
+  url.searchParams.append("visitorId", visitorId);
 
   const res = await fetch(url);
   const { count } = await res.json();
