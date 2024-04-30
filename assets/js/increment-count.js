@@ -30,6 +30,10 @@ const retrieveVisitorId = () => {
 
   const res = await fetch(url);
   const { count } = await res.json();
+  if (!count) {
+    console.error("Failed to fetch count");
+    return;
+  }
 
   document.getElementById(
     "page-view-counter",
