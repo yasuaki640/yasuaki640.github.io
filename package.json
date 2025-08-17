@@ -4,11 +4,13 @@
   "description": "The fastest portfolio page of yasuaki640",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "author": "yasuaki640",
   "license": "ISC",
   "devDependencies": {
-    "prettier": "^3.0.0"
+    "prettier": "^3.6.2"
   }
 }

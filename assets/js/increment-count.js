@@ -35,7 +35,6 @@ const retrieveVisitorId = () => {
     return;
   }
 
-  document.getElementById(
-    "page-view-counter",
-  ).innerText = `⭐⭐⭐あなたは${count}人目の訪問者です。⭐⭐⭐`;
+  document.getElementById("page-view-counter").innerText =
+    `⭐⭐⭐あなたは${count}人目の訪問者です。⭐⭐⭐`;
 })();

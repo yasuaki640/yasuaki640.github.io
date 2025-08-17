@@ -14,6 +14,7 @@ This is yasuaki640's personal portfolio website (yasuaki640.github.io) - a stati
 ## Architecture
 
 ### Structure
+
 - **index.html** - Main portfolio page with Japanese content
 - **assets/css/** - Styling with main.css (custom styles) and reset.css
 - **assets/js/** - Two main JavaScript modules:
@@ -25,16 +26,19 @@ This is yasuaki640's personal portfolio website (yasuaki640.github.io) - a stati
 - **resume.md** - Japanese resume/CV linked from main page
 
 ### Key Features
+
 - **Page View Counter**: Uses external Cloudflare Workers API at `page-view-counter-api.yasuaki640.workers.dev` with localStorage-based visitor ID generation
 - **Performance Optimizations**: Lazy-loaded fonts and CSS using `media="print" onload="this.media='all'"` pattern
 - **Animations**: CSS marquee effect enhanced with Web Animations API for smooth scrolling
 - **Responsive Design**: Viewport meta tag and mobile-optimized layout
 
 ### Technical Patterns
+
 - Self-contained vanilla JavaScript modules (no external dependencies)
 - WebP image format for optimal loading
 - Font subsetting for Japanese/Latin characters only
 - External links use proper `rel="noopener noreferrer"` security attributes
 
 ## Site Content
+
 Portfolio site for yasuaki640, a Japanese programmer specializing in web development (TypeScript, PHP, Java), with sections for self-introduction, resume, social links, personal motto, and hobbies.
