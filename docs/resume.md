@@ -43,7 +43,7 @@
   - 決済機能開発(非stripe)
   - 顧客とメッセージでやり取りし、問い合わせ対応を2ヶ月で4件程度実施
 
-### ソフトブレーン株式会社 (2020/04 ~ 2021/3)
+### ソフトブレーン株式会社 (2020/04 ~ 2021/03)
 
 - Javaでのバックエンド開発
   - 既存システムのバグ対応
@@ -60,8 +60,6 @@
 - [【セキュアな個人開発のお供に!!】 Honoで作ったMPAに、Cloudflare Accessを使って簡単に認証をかける](https://zenn.dev/y640/articles/20240517-cloudflare-workers-with-cloudflare-access)
 
 ## 登壇歴
-
-### カンファレンス登壇
 
 - [**PHP Conference 2025** - 25分セッション登壇](https://yasuaki640.hatenablog.com/entry/2025/07/21/201541)
 - [**PHPerKaigi 2024** - LT登壇 「PHPのFFIを使って簡単なメロディを演奏する」](https://yasuaki640.hatenablog.com/entry/2024/03/10/201533)
