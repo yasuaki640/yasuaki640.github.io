@@ -47,7 +47,7 @@
 
 - Hono（Web Framework）: 15 contributions
   - Lambda@Edge向けconnInfo対応
-  - タイミング攻撃対策
+  - タイミング攻撃対策コードの改善
   - httpヘッダーパースのベンチマーク検証
 - AWS CDK: 7 contributions
 - Vue Test Utils: 2 contributions
